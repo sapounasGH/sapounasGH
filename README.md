@@ -1,16 +1,23 @@
-## Hi there 👋
+᚛ ᚢ ᚾ ᚜
 
-<!--
-**sapounasGH/sapounasGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Christos Sapounas
+*Software Engineer · IHU · Greece*
 
-Here are some ideas to get you started:
+Trying to build tools to save earth from Mordor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✦ Currently forging
+
+**[HellasCube](https://github.com/sapounasGH/Hellas_Cube)** — a geospatial satellite analysis system for Greece, built on Open Data Cube.  
+`Rust CLI` · `Python / FastAPI` · `PostgreSQL` · `Earth Observation`
+
+---
+
+### Languages & tools
+
+`Rust` · `Python` · `Java` · `C++` · `PHP` · `PostgreSQL` · `FastAPI`
+
+---
+
+✦ &nbsp; [LinkedIn](https://www.linkedin.com/in/christos-sapounas-017221245/) · Greece
