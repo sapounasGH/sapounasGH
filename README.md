@@ -1,6 +1,4 @@
-᚛ ᚢ ᚾ ᚜
-
-# Christos Sapounas
+# ፈ. 𝔖𝔞𝔭𝔬𝔲𝔫𝔞𝔰
 *Software Engineer · IHU · Greece*
 
 Trying to build tools to save earth from Mordor.
