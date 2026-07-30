@@ -3,7 +3,7 @@
 
 One Software to rule them all. 👁
 ---
-### Currently forging
+### Currently working on
 **[HellasCube](https://github.com/sapounasGH/Hellas_Cube)** a geospatial satellite analysis system for Greece, built on Open Data Cube.  
 `Rust CLI` · `Python / FastAPI` · `PostgreSQL` · `Earth Observation`
 
