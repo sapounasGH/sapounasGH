@@ -1,5 +1,5 @@
 # ℭ𝔥𝔯𝔦𝔰𝔱𝔬𝔰 𝔖𝔞𝔭𝔬𝔲𝔫𝔞𝔰
-*Software Engineer · IHU · Greece*
+*Software Engineer · Greece*
 
 One Software to rule them all. 👁
 ---
