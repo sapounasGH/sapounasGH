@@ -11,4 +11,4 @@ One Software to rule them all. 👁
 
 ---
 ### Languages & tools
-`Rust` · `Python` · `Java` · `C++` · `PHP` · `PostgreSQL` · `FastAPI`
+`Java` · `Python` · `Rust` · `C++` · `Dart` · `Spring Boot` · `Flutter` · `Angular` · `PostgreSQL` · `MySQL`
