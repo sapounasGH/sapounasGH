@@ -3,11 +3,9 @@
 
 One Software to rule them all. 👁
 ---
-### Currently figuring out my next project
-
-### Last worked on:
-**[HellasCube](https://github.com/sapounasGH/Hellas_Cube)** a geospatial satellite analysis system for Greece, built on Open Data Cube.  
-`Rust CLI` · `Python / FastAPI` · `PostgreSQL` · `Earth Observation`
+### Working:
+**[Äerd Cube](https://github.com/sapounasGH/Aerd_Cube)** local satelite data analyzation software.
+`Python` · `Open Data Cube` · `Streamlit`
 
 ---
 ### Languages & tools
